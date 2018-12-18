@@ -1,0 +1,26 @@
+{
+  "name": "ducks-mana",
+  "version": "1.0.0",
+  "description": "异步任务的并发控制",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhahouming/ducks-mana.git"
+  },
+  "keywords": [
+    "异步",
+    "并发"
+  ],
+  "author": "zhahouming@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhahouming/ducks-mana/issues"
+  },
+  "homepage": "https://github.com/zhahouming/ducks-mana#readme",
+  "dependencies": {
+    "events": "^3.0.0"
+  }
+}
